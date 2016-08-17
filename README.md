@@ -27,7 +27,6 @@ Experienced with Go, C, Ruby, Rails, ..
 ## Education
 
 [Universidade Paranaense](http://www.unipar.br/), Francisco Beltrão, Brazil
-
 Graduated in Software Engineering (2012 -2014)
 
 [Universidade do Oeste de Santa Catarina](http://www.unoesc.edu.br/), São Miguel do Oeste, Brazil
