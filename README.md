@@ -26,7 +26,7 @@ Experienced with Go, C, Ruby, Rails, ..
 
 ## Education
 
-Universidade Paranaense, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014)
+**Universidade Paranaense**, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014)
 
 **Universidade do Oeste de Santa Catarina**, São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems, (2004-2010)
 
@@ -73,3 +73,8 @@ Participei no desenvolvimento de módulo de comunicação entre aplicativo PDV e
 Key technologies: Delphi, Firebird, PostgreSQL, Scrum.
 
 ## Relevant open source projects
+
+- [Owl-Links](https://github.com/johnidm/owl-links): Project to share links about tecnologies
+- [seagal](https://github.com/johnidm/seagal): A simple bot to share blog posts in Slack channel
+- [E-book - compiler for humans pt-BR](https://github.com/johnidm/compiladores-para-humanos): e-book about compiler strucutre and development
+- [PyLinkedinAPI](https://github.com/johnidm/PyLinkedinAPI): Simple and easy library to integrate with Linkedin API
