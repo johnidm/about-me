@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-30, I was born and raised in Charlotte, North Carolina, there are not many things that I class as a hobby, as hobbies are something that you will like for a very long time and they are very hard to find and keep, as class
+30, I was born ... there are not many things that I class as a hobby, as hobbies ... , as classes ...
 
 ## Contact Information
 
