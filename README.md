@@ -42,7 +42,7 @@ Key technologies: Python, Java Script, Django, Celery, Tastypie, AngularJS, Post
 
 9bits is an agency specializing in digital marketing campaigns and creating digital solutions for small and medium enterprises.
 
-Fui o principal desenvolvedor de um portal onde o comprador faz um resumo do produto que deseja comprar e quanto quer pagar, o sistema traz o valor médio de mercado deste produto e da a opção de diminuir este valor até o valor que o comprador deseja pagar em seguida o sistema busca as empresas que atendam as caracterizas do produto solicitado.
+I was the main developer of a site where the buyer creates a summary of the product that they wish to purchase and how much they want to pay, the system shows the average price of this product and gives the option to lower this price to the one that the buyer wishes to pay, and the system then searches for companies that meet the criteria for the product requested. 
 
 Key technologies: PHP, Zend Framework, Java Script, jQuery, HTML, CSS
 
