@@ -1,22 +1,24 @@
 # Johni Douglas Marangon
 
-30, I was born ... there are not many things that I class as a hobby, as hobbies ... , as classes ...
+30, software engineer, technology enthusiast, open source collaborator, enjoys sports in general, hangout and personal enhancement meetups.
 
 ## Contact Information
 
 * Email: johni.douglas.marangon@gmail.com
-* WWW: www.johnidouglas.com
+* Blog: www.johnidouglas.com
 * GitHub: www.github.com/johnidm
 * Linkedin: www.linkedin.com/in/johnidouglas
-* Current city: Florianopolis, SC, Brazil
+* Lives at: Florianopolis, SC, Brazil
 
 ## About me
 
-More than 8+ years experience in software development, I made a large number of successful projects in the web and desktop. Inspired in learning new technologies and business opportunities.
+More than 8+ years experience in software development, participated on a lots  of successful projects using web and desktop technologies. Nonstop learner.
 
-Despite coding, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD and cloud computing, tests, user expierience. Searching for opportunities to join qn engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion about coding craftsmanship with great product vision. 
+Despite the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.  
 
-Yet, I have a [blog](http://johnidouglas.com/) where I share some progress on my personal projects and other interesting resources. l believe in open source initiative and share most of my work that has no impact in business secrets. You can find it on my [GitHub account](https://github.com/). I also participate in meetups and talks about technologies as a [speacker](http://slides.com/johnidouglasmarangon).
+Try to share some knowledge at [blog](http://johnidouglas.com/) when not working. I believe open source initiative and share most of my work that has no impact in business secrets. You can find my collaborations on my [GitHub account](https://github.com/).  
+
+Help to organize some local meetups and talks about technology. Check it out on my [speacker](http://slides.com/johnidouglasmarangon).
 
 ### Tecnical Skills
 
