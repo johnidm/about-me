@@ -22,7 +22,7 @@ Help to organize some local meetups and talks about technology. Check it out on 
 
 ### Tecnical Skills
 
-Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), NodeJS (2+ years), PostgreSQL (2+ years), MySQL (5+ years), Delphi VERSION (X+ years), …
+Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), NodeJS (2+ years), PostgreSQL (2+ years), MySQL (5+ years) and Delphi VERSION (8+ years).
 
 Experienced with Go, C, Ruby, Rails, Docker, Vagrant, Fabric and Shellscript.
 
