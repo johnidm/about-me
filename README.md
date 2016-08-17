@@ -38,6 +38,12 @@ Contentools is a content marketing automation platform to centralize, streamline
 
 Key technologies: Python, Java Script , Django Celery, Tastypie, AngularJS, PostgreSQL , Amazon Web Services (AWS), Heroku, SaaS.
 
+**9bits Agência Digital** (Brazil) - Freelance Web Analyst/Developer (September 2012 to January 2014)
+
+9bits is an agency specializing in digital marketing campaigns and creating digital solutions for small and medium enterprises.
+
+Key technologies: PHP,  Zend Framework,  Java Script,  jQuery, HTML, CSS
+
 ## Opensource Contributions
 
 
