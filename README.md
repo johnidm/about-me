@@ -22,9 +22,9 @@ Help to organize some local meetups and talks about technology. Check it out on 
 
 ### Tecnical Skills
 
-Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), NodeJS (2+ years), PostgreSQL (2+ years), MySQL (5+ years) and Delphi VERSION (8+ years).
+Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ years), .
 
-Experienced with Go, C, Ruby, Rails, Docker, Vagrant, Fabric and Shellscript.
+Experienced with Go, C++, Ruby, Ionic, NodeJS, Lua, Rails, Docker, Vagrant, Fabric and Shellscript.
 
 ## Education
 
@@ -34,13 +34,13 @@ Experienced with Go, C, Ruby, Rails, Docker, Vagrant, Fabric and Shellscript.
 
 ## Experience
 
-**Contentools** (Brazil) - Full Stack Developer (2015 to Present)  
+**Contentools** (Brazil) - Full Stack Developer - (April 2015 to Present)  
 
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation. I participate in full lifecycle software development, provide system architecture or design documents, conduct code review and code refactoring and create technical specifications and test plans.
 
 Key technologies: Python, Javascript, Django, Celery, Tastypie, AngularJS, PostgreSQL, Amazon Web Services (AWS) and Heroku.
 
-**9bits Agência Digital** (Brazil) - Freelance Web Analyst/Developer - (September 2012 to January 2014)
+**9bits Agência Digital** (Brazil) - Freelance Web Analyst/Developer - (October 2014 to February 2015)
 
 9bits is an agency specializing in digital marketing campaigns and creating digital solutions for small and medium business.
 
@@ -48,12 +48,12 @@ I was the main developer of a site where the buyer creates a summary of the prod
 
 Key technologies: PHP, Zend Framework, Java Script, jQuery, HTML, CSS
 
-**Universidade do Oeste de Santa Catarina** (Brazil) - Professor for the  Bachelor of Science in Computer Science Course - September 2012 to January 2014
+**Universidade do Oeste de Santa Catarina** (Brazil) - Professor for the  Bachelor of Science in Computer Science Course - (January 2014 to December 2014)
 Professor on the following courses: Compilers, Data Structures, Programming Languages 101.
 
 Key technologies: Java, JFlex, JavaCUP, Delphi, Python, JavaScript, Scheme
 
-**Microsys Sistemas Ltda (Brazil)** - Senior Systems Analyst (September 2012 to January 2014)
+**Microsys Sistemas Ltda (Brazil)** - Senior Systems Analyst - (September 2013 to October 2014)
 
 Microsys Systems is a company that produces comercial and industrial automation software.
 
@@ -61,7 +61,7 @@ Worked implementing the business analysts specifications and requirements, helpi
 
 Key technologies: Delphi, Firebird, Business process modeling, REST, Web services.
 
-**Sysmo Sistemas Ltda**  (Brazil) - System Developer (September 2012 to January 2014)
+**Sysmo Sistemas Ltda**  (Brazil) - System Developer (February 2008 to September 2013)
 
 Sysmo Sistemas develops and distribute comercial automation software focused on supermarkets needs for the whole country (Brazil).
 
