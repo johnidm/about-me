@@ -1,5 +1,14 @@
 # Johni Douglas Marangon
 
+
+#### Contact Information
+
+* Email: johni.douglas.marangon@gmail.com
+* WWW: www.johnidouglas.com
+* GitHub: www.github.com/johnidm
+* Linkedin: www.linkedin.com/in/johnidouglas
+* Current city: Florianopolis, SC, Brazil
+
 #### About me
 
 More than 8+ years experience in software development, I made a large number of successful projects in the web and desktop. Inspired in learning new technologies and business opportunities.
@@ -11,6 +20,7 @@ Yet, I have a blog where I share some progress on my personal projects and other
 #### Tecnical Skills
 
 Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), NodeJS (2+ years), PostgreSQL (2+ years), MySQL (5+ years), Delphi VERSION (X+ years), …
+
 Experienced with Go, C, Ruby, Rails, .. 
 
 #### Education
@@ -28,6 +38,6 @@ Contentools (Brazil) - Full Stack Developer (2015 to Present)
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation. I participate in full lifecycle software development, provide system architecture or design documents, conduct code review and code refactoring and create technical specifications and test plans.
 Key technologies: Python, Java Script , Django Celery, Tastypie, AngularJS, PostgreSQL , Amazon Web Services (AWS), Heroku, SaaS.
 
-### Relevante open source project
+### Opensource Contributions
 
 
