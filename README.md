@@ -44,6 +44,6 @@ Key technologies: Python, Java Script , Django Celery, Tastypie, AngularJS, 
 
 Key technologies: PHP,  Zend Framework,  Java Script,  jQuery, HTML, CSS
 
-## Opensource Contributions
+## Relevant open source projects
 
 
