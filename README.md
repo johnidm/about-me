@@ -61,7 +61,7 @@ Worked implementing the business analysts specifications and requirements, helpi
 
 Key technologies: Delphi, Firebird, Business process modeling, REST, Web services.
 
-**Sysmo Sistemas Ltda**  (Brazil) - System Developer (February 2008 to September 2013)
+**Sysmo Sistemas Ltda**  (Brazil) - System Developer - (February 2008 to September 2013)
 
 Sysmo Sistemas develops and distribute comercial automation software focused on supermarkets needs for the whole country (Brazil).
 
