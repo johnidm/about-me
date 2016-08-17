@@ -16,7 +16,7 @@ More than 8+ years experience in software development, I made a large number of 
 
 Despite coding, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD and cloud computing, tests, user expierience. Searching for opportunities to join qn engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion about coding craftsmanship with great product vision. 
 
-Yet, I have a blog where I share some progress on my personal projects and other interesting resources. l believe in open source initiative and share most of my work that has no impact in business secrets. You can find it on my GitHub account.
+Yet, I have a [blog](http://johnidouglas.com/) where I share some progress on my personal projects and other interesting resources. l believe in open source initiative and share most of my work that has no impact in business secrets. You can find it on my [GitHub account](https://github.com/). I also 
 
 ### Tecnical Skills
 
@@ -43,6 +43,28 @@ Key technologies: Python, Java Script , Django Celery, Tastypie, AngularJS, 
 9bits is an agency specializing in digital marketing campaigns and creating digital solutions for small and medium enterprises.
 
 Key technologies: PHP,  Zend Framework,  Java Script,  jQuery, HTML, CSS
+
+Universidade do Oeste de Santa Catarina (Brazil) - Teacher Bachelor's degree Computer Science, January 2014)
+I fui professor das seguintes disciplinas, Comialdores, Estrutura de dados, Lingaugens de Progracaao, I apply tests, explain um grande conteúdos envolvicneod 
+Key technologies:  Java, JFlex, JavaCUP, Delphi, Python, JavaScript, Scheme(September 2012 to
+
+
+Microsys Sistemas Ltda (Brazil) - Senior Analyst Systems (September 2012 to January 2014)
+
+Microsys Sistemas é uma empresa que atua no desenvolvimento de sistemas inteligentes para automação comercial e industrial.
+I working with business analysts in translating business requirements to design specification, providing system architecture or design documents, conducting requirements analysis and preparing specific proposals for modified or replacement systems; translating client requirements into highly specified project briefs; developing solutions and related products; 
+I Convert Legacy Systems to newer platforms
+Key technologies: Delphi, Firebird, Business process modeling, REST, Web services.
+
+Sysmo Sistemas Ltda (Brazil) - Programador de Sistemas Pleno (September 2012 to January 2014)
+A Sysmo Sistemas  desenvolve e comercializa softwares e serviços para automação e gestão de supermercados de todo o Brasil. 
+
+Atuei no desenvolvimento de requisitos de integração e homologação do TEF Discado e TEF Dedicado nos anos de 2010 e 2011, 2012 e PAF-ECF nos anos de 2010, 2011 e 2012.
+
+Participei no desenvolvimento de módulo de comunicação entre aplicativo PDV e os principais modelos de ECF, balanças de checkout, CUB (Concentrador Universal de Bombas - para uso em Postos de Combustíveis), teclados reduzidos, comunicação com microterminais básicos e cancelas de estacionamentos.
+Key technologies: Delphi, Firebird, PostgreSQL, Scrum.
+
+
 
 ## Relevant open source projects
 
