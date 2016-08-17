@@ -26,18 +26,16 @@ Experienced with Go, C, Ruby, Rails, ..
 
 ## Education
 
-[Universidade Paranaense](http://www.unipar.br/), Francisco Beltrão, Brazil
-Graduated in Software Engineering (2012 -2014)
+[Universidade Paranaense](http://www.unipar.br/), Francisco Beltrão, Brazil - Graduated in Software Engineering (2012 -2014)
 
-[Universidade do Oeste de Santa Catarina](http://www.unoesc.edu.br/), São Miguel do Oeste, Brazil
-
-Bachelor's of Science in Information Systems (2004-2010)
+[Universidade do Oeste de Santa Catarina](http://www.unoesc.edu.br/), São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems (2004-2010)
 
 ## Experience
 
 **Contentools** (Brazil) - Full Stack Developer (2015 to Present)
 
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation. I participate in full lifecycle software development, provide system architecture or design documents, conduct code review and code refactoring and create technical specifications and test plans.
+
 Key technologies: Python, Java Script , Django Celery, Tastypie, AngularJS, PostgreSQL , Amazon Web Services (AWS), Heroku, SaaS.
 
 ## Opensource Contributions
