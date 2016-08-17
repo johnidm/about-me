@@ -61,9 +61,9 @@ I Convert Legacy Systems to newer platforms
 
 Key technologies: Delphi, Firebird, Business process modeling, REST, Web services.
 
-*Sysmo Sistemas Ltda*  (Brazil) - Programador de Sistemas Pleno (September 2012 to January 2014)
+*Sysmo Sistemas Ltda**  (Brazil) - Programador de Sistemas Pleno (September 2012 to January 2014)
 
-A Sysmo Sistemasdesenvolve e comercializa softwares e serviços para automação e gestão de supermercados de todo o Brasil. 
+Sysmo Sistemas desenvolve e comercializa softwares e serviços para automação e gestão de supermercados de todo o Brasil. 
 
 Responsible for the full lifecycle development of POS(Point of Sale) software, mentoring software engineers and developers as a Scrum Master and Architect software engineer.
 
