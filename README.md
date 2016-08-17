@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-
+30, I was born and raised in Charlotte, North Carolina, there are not many things that I class as a hobby, as hobbies are something that you will like for a very long time and they are very hard to find and keep, as class
 
 ## Contact Information
 
@@ -26,13 +26,13 @@ Experienced with Go, C, Ruby, Rails, ..
 
 ## Education
 
-[Universidade Paranaense](http://www.unipar.br/), Francisco Beltrão, Brazil - Graduated in Software Engineering (2012 -2014)
+Universidade Paranaense, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014) - http://www.unipar.br/
 
-[Universidade do Oeste de Santa Catarina](http://www.unoesc.edu.br/), São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems (2004-2010)
+**Universidade do Oeste de Santa Catarina**, São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems, (2004-2010) - http://www.unoesc.edu.br/
 
 ## Experience
 
-**Contentools** (Brazil) - Full Stack Developer (2015 to Present)
+**Contentools** (Brazil) - Full Stack Developer (2015 to Present) - 
 
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation. I participate in full lifecycle software development, provide system architecture or design documents, conduct code review and code refactoring and create technical specifications and test plans.
 
