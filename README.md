@@ -24,7 +24,7 @@ Help to organize some local meetups and talks about technology. Check it out on 
 
 Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), NodeJS (2+ years), PostgreSQL (2+ years), MySQL (5+ years), Delphi VERSION (X+ years), …
 
-Experienced with Go, C, Ruby, Rails, .. 
+Experienced with Go, C, Ruby, Rails, Docker, Vagrant, Fabric and Shellscript.
 
 ## Education
 
@@ -34,49 +34,47 @@ Experienced with Go, C, Ruby, Rails, ..
 
 ## Experience
 
-**Contentools** (Brazil) - Full Stack Developer (2015 to Present) - 
+**Contentools** (Brazil) - Full Stack Developer (2015 to Present)  
 
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation. I participate in full lifecycle software development, provide system architecture or design documents, conduct code review and code refactoring and create technical specifications and test plans.
 
-Key technologies: Python, Java Script, Django, Celery, Tastypie, AngularJS, PostgreSQL, Amazon Web Services (AWS), Heroku, SaaS.
+Key technologies: Python, Javascript, Django, Celery, Tastypie, AngularJS, PostgreSQL, Amazon Web Services (AWS) and Heroku.
 
 **9bits Agência Digital** (Brazil) - Freelance Web Analyst/Developer - (September 2012 to January 2014)
 
-9bits is an agency specializing in digital marketing campaigns and creating digital solutions for small and medium enterprises.
+9bits is an agency specializing in digital marketing campaigns and creating digital solutions for small and medium business.
 
 I was the main developer of a site where the buyer creates a summary of the product that they wish to purchase and how much they want to pay, the system shows the average price of this product and gives the option to lower this price to the one that the buyer wishes to pay, and the system then searches for companies that meet the criteria for the product requested. 
 
 Key technologies: PHP, Zend Framework, Java Script, jQuery, HTML, CSS
 
-**Universidade do Oeste de Santa Catarina** (Brazil) - Teacher Bachelor's degree Computer Science - September 2012 to January 2014
-
-Fiu professor das seguintes disciplinas, Compialdores, Estrutura de dados, Lingaugens de Progracaao, I apply tests, explain compiler structure, overview of the main programming paradigms, characteristics of the main programming languages and data structures.
+**Universidade do Oeste de Santa Catarina** (Brazil) - Professor for the  Bachelor of Science in Computer Science Course - September 2012 to January 2014
+Professor on the following courses: Compilers, Data Structures, Programming Languages 101.
 
 Key technologies: Java, JFlex, JavaCUP, Delphi, Python, JavaScript, Scheme
 
-**Microsys Sistemas Ltda (Brazil)** - Senior Analyst Systems (September 2012 to January 2014)
+**Microsys Sistemas Ltda (Brazil)** - Senior Systems Analyst (September 2012 to January 2014)
 
-Microsys Sistemas é uma empresa que atua no desenvolvimento de sistemas inteligentes para automação comercial e industrial.
+Microsys Systems is a company that produces comercial and industrial automation software.
 
-I working with business analysts in translating business requirements to design specification, providing system architecture or design documents, conducting requirements analysis and preparing specific proposals for modified or replacement systems; translating client requirements into highly specified project briefs; developing solutions and related products; 
-I Convert Legacy Systems to newer platforms
+Worked implementing the business analysts specifications and requirements, helping to build the system architecture and design documents, conducting requirements analysis and preparing specific proposals for systems to be replaced or patched. Documented the field customer requirements to high level project briefings. Refactored legacy software to new technologies.
 
 Key technologies: Delphi, Firebird, Business process modeling, REST, Web services.
 
-**Sysmo Sistemas Ltda**  (Brazil) - Programador de Sistemas Pleno (September 2012 to January 2014)
+**Sysmo Sistemas Ltda**  (Brazil) - System Developer (September 2012 to January 2014)
 
-Sysmo Sistemas desenvolve e comercializa softwares e serviços para automação e gestão de supermercados de todo o Brasil. 
+Sysmo Sistemas develops and distribute comercial automation software focused on supermarkets needs for the whole country (Brazil).
 
 Responsible for the full lifecycle development of POS(Point of Sale) software, mentoring software engineers and developers as a Scrum Master and Architect software engineer.
 
-Atuei no desenvolvimento de requisitos de integração e homologação do TEF Discado e TEF Dedicado nos anos de 2010 e 2011, 2012 e PAF-ECF nos anos de 2010, 2011 e 2012.
-Participei no desenvolvimento de módulo de comunicação entre aplicativo PDV e os principais modelos de ECF, balanças de checkout, CUB (Concentrador Universal de Bombas - para uso em Postos de Combustíveis), teclados reduzidos, comunicação com microterminais básicos e cancelas de estacionamentos.
+I was in charge of requirements and software integration with third party payment sistems using EFT and DEFT protocol (Electronic Financial Transaction and Dialed EFT) between 2010 and 2012.
+Participated in the comunication module used to connect the point of sale application to the gas station hardware and sensors.
 
 Key technologies: Delphi, Firebird, PostgreSQL, Scrum.
 
 ## Relevant open source projects
 
-- [Owl-Links](https://github.com/johnidm/owl-links): Project to share links about tecnologies
-- [seagal](https://github.com/johnidm/seagal): A simple bot to share blog posts in Slack channel
+- [Owl-Links](https://github.com/johnidm/owl-links): Link share system
+- [Seagal](https://github.com/johnidm/seagal): A simple bot to share blog posts in Slack channel
 - [E-book - compiler for humans pt-BR](https://github.com/johnidm/compiladores-para-humanos): e-book about compiler strucutre and development
 - [PyLinkedinAPI](https://github.com/johnidm/PyLinkedinAPI): Simple and easy library to integrate with Linkedin API
