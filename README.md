@@ -49,6 +49,7 @@ I was the main developer of a site where the buyer creates a summary of the prod
 Key technologies: PHP, Zend Framework, Java Script, jQuery, HTML, CSS
 
 **Universidade do Oeste de Santa Catarina** (Brazil) - Professor for the  Bachelor of Science in Computer Science Course - (January 2014 to December 2014)
+
 Professor on the following courses: Compilers, Data Structures, Programming Languages 101.
 
 Key technologies: Java, JFlex, JavaCUP, Delphi, Python, JavaScript, Scheme
