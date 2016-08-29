@@ -1,3 +1,4 @@
 - [Hynek Schlawack](https://hynek.me/)
 - [http://bluesock.org/~willkg/](http://bluesock.org/~willkg/)
 - [Podcast.__init__](http://podcastinit.podbean.com/)
+- [Doug Hellmann](https://doughellmann.com/blog/)
