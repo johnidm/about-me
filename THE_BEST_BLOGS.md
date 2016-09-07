@@ -3,3 +3,4 @@
 - [Podcast.__init__](http://podcastinit.podbean.com/)
 - [Doug Hellmann](https://doughellmann.com/blog/)
 - [Greg](http://gregblogs.com/)
+- [David Baumgold](https://www.davidbaumgold.com/)
