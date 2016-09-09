@@ -4,3 +4,4 @@
 - [Doug Hellmann](https://doughellmann.com/blog/)
 - [Greg](http://gregblogs.com/)
 - [David Baumgold](https://www.davidbaumgold.com/)
+- [Python Programmers](https://pythonprogrammersblog.wordpress.com/)
