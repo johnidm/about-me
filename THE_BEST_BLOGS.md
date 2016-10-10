@@ -6,3 +6,4 @@
 - [David Baumgold](https://www.davidbaumgold.com/)
 - [William Kennedy](https://www.goinggo.net/)
 - [Python Programmers](https://pythonprogrammersblog.wordpress.com/)
+- [felipe volpone](https://felipevolpone.github.io/)
