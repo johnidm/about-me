@@ -7,3 +7,4 @@
 - [William Kennedy](https://www.goinggo.net/)
 - [Python Programmers](https://pythonprogrammersblog.wordpress.com/)
 - [felipe volpone](https://felipevolpone.github.io/)
+- [Vitor Freitas](https://simpleisbetterthancomplex.com/)
