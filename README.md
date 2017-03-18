@@ -28,11 +28,21 @@ Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagra
 
 ## Education
 
-**Universidade Paranaense**, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014)
+**Federal University of Santa Catarina**, Florianópolis, Brazil - Information Computer Science Master Program, (2017 to present).
 
-**Universidade do Oeste de Santa Catarina**, São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems, (2004-2010)
+I am doing research about: Deep Learning, Data Mining, Machine Learning, Natural Processing Language and Information System Research. 
+
+**Universidade Paranaense**, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014).
+
+**Universidade do Oeste de Santa Catarina**, São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems, (2004-2010).
 
 ## Experience
+
+**Smarket Solutions** (Brazil) - Full Stack Developer - (September 2016 to present)
+
+Smarket is a digital company that helps retailers make better choices on their promotional sales. 
+
+Key technologies: Python, Typescript, Angular, Django, Celery, Django REST Framework, PostgreSQL, Amazon Web Services (AWS).
 
 **Spinver** (Brazil) - Backend Enginneer - (September 2016 to Dezember 2016)
 
