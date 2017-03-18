@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-30, software engineer, technology enthusiast, open source collaborator, enjoys sports in general, hangout and personal enhancement meetups.
+31, software engineer, technology enthusiast, open source collaborator, enjoys sports in general, hangout and personal enhancement meetups.
 
 ## Contact Information
 
@@ -12,7 +12,7 @@
 
 ## About me
 
-More than 8+ years experience in software development, participated on a lots  of successful projects using web and desktop technologies. Nonstop learner.
+More than 9+ years experience in software development, participated on a lots  of successful projects using web and desktop technologies. Nonstop learner.
 
 Despite the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.  
 
@@ -22,7 +22,7 @@ Help to organize some local meetups and talks about technology. Check it out on 
 
 ### Tecnical Skills
 
-Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ years), CSS/HTML (3+ years), Java (1+ years).
+Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ years), CSS/HTML (3+ years), Java (1+ years), TypeScript (1+ year), Angular (1+ year).
 
 Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagrant, Java Card, Fabric and Shellscript.
 
@@ -34,7 +34,13 @@ Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagra
 
 ## Experience
 
-**Contentools** (Brazil) - Full Stack Developer - (April 2015 to Present)  
+**Spinver** (Brazil) - Backend Enginneer - (September 2016 to Dezember 2016)
+
+Spinver is a automated platform that extract and classify offer of the social medias. I worked as a freelancer, I designed and implemented the back-end architecture of large scale web application. I maintained the Bayesian classification algorithm.
+
+Key technologies: Python, Django, Celery, DRF, Amazon SQS, Machine Learning.
+
+**Contentools** (Brazil) - Full Stack Developer - (April 2015 to September 2016)
 
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation. I participate in full lifecycle software development, provide system architecture or design documents, conduct code review and code refactoring and create technical specifications and test plans.
 
@@ -72,10 +78,3 @@ I was in charge of requirements and software integration with third party paymen
 Participated in the comunication module used to connect the point of sale application to the gas station hardware and sensors.
 
 Key technologies: Delphi, Firebird, PostgreSQL, Scrum.
-
-## Relevant open source projects
-
-- [Owl-Links](https://github.com/johnidm/owl-links): Link share system
-- [Seagal](https://github.com/johnidm/seagal): A simple bot to share blog posts in Slack channel
-- [E-book - compiler for humans pt-BR](https://github.com/johnidm/compiladores-para-humanos): e-book about compiler strucutre and development
-- [PyLinkedinAPI](https://github.com/johnidm/PyLinkedinAPI): Simple and easy library to integrate with Linkedin API
