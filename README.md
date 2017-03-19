@@ -30,7 +30,7 @@ Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagra
 
 **Federal University of Santa Catarina**, Florianópolis, Brazil - Information Computer Science Master Program, (2017 to present).
 
-> I am doing research about: Deep Learning, Data Mining, Machine Learning, Natural Processing Language and Information System Research. 
+> I am doing research about: Deep Learning, Data Mining, Machine Learning, Natural Processing Language and Intelligent Information Retrieval. 
 
 **Universidade Paranaense**, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014).
 
