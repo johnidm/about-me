@@ -22,7 +22,7 @@ Help to organize some local meetups and talks about technology. Check it out on 
 
 ### Tecnical Skills
 
-Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ years), CSS/HTML (3+ years), Java (1+ years), TypeScript (1+ year), Angular (1+ year).
+Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ years), CSS/HTML (3+ years), Java (1+ years), TypeScript (1+ year), Angular 2+ (1+ year).
 
 Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagrant, Java Card, Fabric and Shellscript.
 
@@ -40,7 +40,7 @@ Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagra
 
 **Smarket Solutions** (Brazil) - Full Stack Developer - (September 2016 to present)
 
-Smarket is a digital company that helps retailers make better choices on their promotional sales. 
+Smarket is a digital company that helps retailers make better choices on their promotional sales. I was responsible for the definition of detailed design and implement architecturalal strategies for the Frontend infrastructure using Angular2+ and TypeScript. I guides development teams with technical implementation details surrounding. I developed and planned code implementations a highly scalable REST API service using Python, Django and Django Rest Framework.
 
 Key technologies: Python, Typescript, Angular, Django, Celery, Django REST Framework, PostgreSQL, Amazon Web Services (AWS).
 
