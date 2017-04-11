@@ -5,7 +5,7 @@
 ## Contact Information
 
 * Email: johni.douglas.marangon@gmail.com
-* Blog: www.johnidouglas.com
+* Blog: https://johnidm.github.io/
 * GitHub: www.github.com/johnidm
 * Linkedin: www.linkedin.com/in/johnidouglas
 * Lives at: Florianopolis, SC, Brazil
