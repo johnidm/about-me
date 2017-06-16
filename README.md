@@ -41,6 +41,7 @@ Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagra
 **Softplan** (Brazil) - Technical Lead - (May 2017 to present)
 
 Softplan / Poligraph is one of the largest software companies in Santa Catarina, with more than 1000 employees. It has been working for two decades in the development of management software in the public and private areas. 
+
 I am responsible for managing technology in projects and providing technical guidance and develop and guide the team members in enhancing their technical capabilities and increasing productivity.
 
 Key technologies: Python, Typescript, Angular, Django, Django REST Framework, PostgreSQL, Docker, GitLab.
@@ -48,6 +49,7 @@ Key technologies: Python, Typescript, Angular, Django, Django REST Framework, Po
 **Smarket Solutions** (Brazil) - Full Stack Developer - (September 2016 to May 2017)
 
 Smarket is a digital company that helps retailers make better choices on their promotional sales. 
+
 I was responsible for the definition of detailed design and implement architecturalal strategies for the Frontend infrastructure using Angular2+ and TypeScript. I guides development teams with technical implementation details surrounding. I developed and planned code implementations a highly scalable REST API service using Python, Django and Django Rest Framework.
 
 Key technologies: Python, Typescript, Angular, Django, Celery, Django REST Framework, PostgreSQL, Amazon Web Services (AWS).
@@ -55,6 +57,7 @@ Key technologies: Python, Typescript, Angular, Django, Celery, Django REST Frame
 **Spinver** (Brazil) - Backend Enginneer - (September 2016 to Dezember 2016)
 
 Spinver is a automated platform that extract and classify offer of the social medias. 
+
 I worked as a freelancer, I designed and implemented the back-end architecture of large scale web application. I maintained the Bayesian classification algorithm.
 
 Key technologies: Python, Django, Celery, DRF, Amazon SQS, Machine Learning.
@@ -62,6 +65,7 @@ Key technologies: Python, Django, Celery, DRF, Amazon SQS, Machine Learning.
 **Contentools** (Brazil) - Full Stack Developer - (April 2015 to September 2016)
 
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation. 
+
 I participate in full lifecycle software development, provide system architecture or design documents, conduct code review and code refactoring and create technical specifications and test plans.
 
 Key technologies: Python, Javascript, Django, Celery, Tastypie, AngularJS, PostgreSQL, Amazon Web Services (AWS) and Heroku.
