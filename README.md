@@ -38,13 +38,13 @@ Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagra
 
 ## Experience
 
-**Softplan** (Brazil) - Technical Lead - (May 2017 to present)
+**Softplan** (Brazil) - Full Stack Developer - (May 2017 to present)
 
 Softplan / Poligraph is one of the largest software companies in Santa Catarina, with more than 1000 employees. It has been working for two decades in the development of management software in the public and private areas. 
 
 I am responsible for managing technology in projects and providing technical guidance and develop and guide the team members in enhancing their technical capabilities and increasing productivity.
 
-Key technologies: Python, Typescript, Angular, Django, Django REST Framework, PostgreSQL, Docker, GitLab.
+Key technologies: Python, Django, Tornado, Apistar, Restless, Typescript, Angular 4+, PostgreSQL, Docker, GitLab, React Native, Java Script, RabbitMQ, Delphi 5.
 
 **Smarket Solutions** (Brazil) - Full Stack Developer - (September 2016 to May 2017)
 
