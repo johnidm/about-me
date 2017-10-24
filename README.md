@@ -38,7 +38,7 @@ Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagra
 
 ## Experience
 
-**Softplan** (Brazil) - Full Stack Developer - (May 2017 to present)
+**Softplan** (Brazil) - Tech Lead - (May 2017 to present)
 
 Softplan / Poligraph is one of the largest software companies in Santa Catarina, with more than 1000 employees. It has been working for two decades in the development of management software in the public and private areas. 
 
