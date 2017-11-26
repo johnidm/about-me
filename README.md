@@ -16,7 +16,7 @@ More than 9+ years experience in software development, participated on a lots  o
 
 Despite the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.  
 
-Try to share some knowledge at [blog](https://johnidm.github.io/) - [old version](http://johnidouglas.com/) - when not working. I believe open source initiative and share most of my work that has no impact in business secrets. You can find my collaborations on my [GitHub account](https://github.com/johnidm).  
+Try to share some knowledge at [blog](https://johnidm.github.io/) when not working. I believe open source initiative and share most of my work that has no impact in business secrets. You can find my collaborations on my [GitHub account](https://github.com/johnidm).  
 
 Help to organize some local meetups and talks about technology. Check it out on my [speacker](http://slides.com/johnidouglasmarangon).
 
