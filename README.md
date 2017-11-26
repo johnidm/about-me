@@ -12,7 +12,7 @@
 
 ## About me
 
-More than 9+ years experience in software development, participated on a lots  of successful projects using web and desktop technologies. Nonstop learner.
+More than 9+ years experience in software development, participated on a lots  of successful projects using web and desktop technologies. Non stop learner.
 
 Despite the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.  
 
