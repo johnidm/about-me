@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-31, software engineer, technology enthusiast, open source collaborator, enjoys sports in general, hangout and personal enhancement meetups.
+I'm a thirth two year old, software engineer, technology enthusiastc, and open source collaborator, I enjoy sports in general, hangout and personal enhancement meetups.
 
 ## Contact Information
 
@@ -12,13 +12,19 @@
 
 ## About me
 
-More than 9+ years experience in software development, participated on a lots  of successful projects using web and desktop technologies. Non stop learner.
+I have more than 10 years experience in software development, I took part in lots of successful projects using web, mobile and desktop technologies.
 
-Despite the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.  
+Besides the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.
 
-Try to share some knowledge at [blog](https://johnidm.github.io/) when not working. I believe open source initiative and share most of my work that has no impact in business secrets. You can find my collaborations on my [GitHub account](https://github.com/johnidm).  
+I share some knowledge on my personal blog, http://johnidouglas.com/, when I'm not working. I believe open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/.
 
-Help to organize some local meetups and talks about technology. Check it out on my [speacker](http://slides.com/johnidouglasmarangon).
+I help to organize some local meetups and talks about technology. Check it out on my speacker, http://slides.com/johnidouglasmarangon
+
+Tecnical Skills
+
+I'm proficient in Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ year), CSS/HTML (3+ years), Java (1+ years), Angular 2+ (1+ year), Typescript (1+ year).
+
+I'm experienced in Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagrant, Java Card, Fabric and Shellscript.
 
 ### Tecnical Skills
 
