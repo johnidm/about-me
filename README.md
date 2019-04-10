@@ -20,7 +20,7 @@ I help to organize some local meetups and talks about technology. Check it out o
 
 Tecnical Skills
 
-I'm proficient in Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ year), CSS/HTML (3+ years), Java (1+ years), Angular 2+ (1+ year), Typescript (1+ year).
+I'm proficient in Python (3+ years), Django (2+ years), Javascript (3+ years), React Native (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ year), CSS/HTML (3+ years), Java (1+ years), Angular 2+ (1+ year), Typescript (1+ year), Ionic (1+ years).
 
 I'm experienced in Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagrant, Java Card, Fabric and Shellscript.
 
