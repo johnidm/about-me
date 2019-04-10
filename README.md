@@ -5,8 +5,6 @@ I'm a thirth two year old, software engineer, technology enthusiastc, and open s
 ## Contact Information
 
 * Email: johni.douglas.marangon@gmail.com
-* Blog: https://johnidm.github.io/
-* GitHub: www.github.com/johnidm
 * Linkedin: www.linkedin.com/in/johnidouglas
 * Lives at: Florianopolis, SC, Brazil
 
@@ -16,7 +14,7 @@ I have more than 10 years experience in software development, I took part in lot
 
 Besides the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.
 
-I share some knowledge on my personal blog, http://johnidouglas.com/, when I'm not working. I believe open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/.
+I share some knowledge on my personal blog, https://johnidm.github.io/, when I'm not working. I believe open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/.
 
 I help to organize some local meetups and talks about technology. Check it out on my speacker, http://slides.com/johnidouglasmarangon
 
